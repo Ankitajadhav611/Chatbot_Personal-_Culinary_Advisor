@@ -28,5 +28,7 @@ Implementing and integrating all these resources was a fun and educational exper
 **How did we achieve that?**
 Thanks to Hugging Face, which provides an interface to host ML models. Learn more about hosting model demos with Hugging Face Spaces: [Hosting Model Demos](https://medium.com/the-owl/hosting-model-demos-with-hugging-face-spaces-and-streamlit-ea0db5f2dd54).
 
-Try the chatbot here: What's Cooking Chatbot 🍲🤩
+Try the chatbot here: [What's Cooking Chatbot](https://huggingface.co/spaces/Ankitajadhav/Whats_Cooking) 🍲🤩
+
+Enjoy exploring the chatbot!
 
