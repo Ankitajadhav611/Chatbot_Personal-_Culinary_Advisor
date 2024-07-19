@@ -1,0 +1,11 @@
+huggingface_hub
+transformers
+datasets
+torch
+sentence-transformers
+chromadb
+gradio
+pysqlite3
+accelerate
+tensorflow
+tf-keras
