@@ -1,6 +1,6 @@
 # 🌟 Discover the Recipe Generating Chatbot: Your Personal Culinary Advisor! 🍽️
 
-As part of my journey in learning Large Language Models (LLM) and implementing cool applications, here's our base model. Wondering what we did and how? Let’s walk you through it! 🚶‍♂️🚶‍♀️
+As part of our team's journey in learning Large Language Models (LLM) and implementing cool applications, here's our very first base model. Wondering what we did and how? Let’s walk you through it! 🚶‍♂️🚶‍♀️
 
 ## 🤖 What is this bot?
 This chatbot answers the age-old question: “What to cook?” 🍳
@@ -28,8 +28,5 @@ Implementing and integrating all these resources was a fun and educational exper
 **How did we achieve that?**
 Thanks to Hugging Face, which provides an interface to host ML models. Learn more about hosting model demos with Hugging Face Spaces: [Hosting Model Demos](https://medium.com/the-owl/hosting-model-demos-with-hugging-face-spaces-and-streamlit-ea0db5f2dd54).
 
-Enjoy exploring the chatbot! 🍲🤩
+Try the chatbot here: What's Cooking Chatbot 🍲🤩
 
----
-
-Feel free to further customize this description to better fit the specifics of your project or any additional details you'd like to include.
